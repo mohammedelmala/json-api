@@ -1,5 +1,85 @@
 {
-    "streams":{
-        
+  "streams": [
+    {
+      "title": "sd",
+      "description": "Changed Manual",
+      "id": 1
+    },
+    {
+      "title": "Movie",
+      "description": "Arabic Movie",
+      "id": 2
+    },
+    {
+      "title": "Movie",
+      "description": "Arabic Movie",
+      "id": 3
+    },
+    {
+      "title": "Animals",
+      "description": "Video about animals",
+      "id": 4
+    },
+    {
+      "title": "Movies",
+      "description": "Hi this is first movie",
+      "id": 5
+    },
+    {
+      "title": "Cars",
+      "description": "Video contains beautiful cars",
+      "id": 6
+    },
+    {
+      "title": "Football",
+      "description": "Footbal match",
+      "id": 7
+    },
+    {
+      "title": "Fifa 2020",
+      "description": "Fifa 2020 ",
+      "id": 8
+    },
+    {
+      "title": "wewe",
+      "description": "wewe",
+      "id": 9
+    },
+    {
+      "title": "sdsd",
+      "description": "sdsd",
+      "userId": "100560877466315932475",
+      "id": 10
+    },
+    {
+      "title": "My New Video",
+      "description": "My New Video About Programming",
+      "userId": "100560877466315932475",
+      "id": 11
+    },
+    {
+      "title": "Mohamed",
+      "description": "Mohammed Elmala",
+      "userId": "100560877466315932475",
+      "id": 12
+    },
+    {
+      "title": "Good Moring",
+      "description": "good moring",
+      "userId": "100560877466315932475",
+      "id": 13
+    },
+    {
+      "title": "Just Test!!!!!!!!!!!!!",
+      "description": "Just write this stream for testing purpose",
+      "userId": "100560877466315932475",
+      "id": 14
+    },
+    {
+      "title": "What do you want?",
+      "description": "I do not  know",
+      "userId": "100560877466315932475",
+      "id": 15
     }
+  ]
 }
